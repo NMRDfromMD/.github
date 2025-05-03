@@ -1,1 +1,1 @@
-# .github
+# NMRDfromMD GitHub Organisation
