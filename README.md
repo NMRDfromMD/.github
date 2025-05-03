@@ -1,1 +1,1 @@
-# NMRDfromMD GitHub Organisation
+# NMRDfromMD's special repository
